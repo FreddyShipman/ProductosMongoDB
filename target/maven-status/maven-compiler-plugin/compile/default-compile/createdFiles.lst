@@ -1,0 +1,9 @@
+config\MongoConfig.class
+dao\IProductoDAO.class
+model\Producto.class
+model\Proveedor.class
+app\PruebasApp.class
+dao\ProductoDAO.class
+dao\EntityNotFoundException.class
+config\MongoClientProvider.class
+dao\DaoException.class
